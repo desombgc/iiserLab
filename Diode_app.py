@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 17 20:26:23 2025
 
-@author: Trisha
+@author: SOMNATH
 """
 
 import numpy as np
@@ -39,4 +39,5 @@ plt.axhline(y=VL[np.argmin(np.abs(Vs - Vz))], color='r', linestyle='-', linewidt
 plt.title("Zener diode as a Voltage Regulator")
 plt.legend(loc = 'best', prop = {'size':10})
 plt.grid()
+
 plt.show()
