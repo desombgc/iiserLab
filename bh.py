@@ -2,7 +2,7 @@
 """
 Created on Wed Nov  5 15:15:19 2025
 
-@author: Trisha
+@author: SOMNATH
 """
 
 import numpy as np
@@ -84,4 +84,5 @@ plt.xlim(0, 360)
 plt.ylim(0, 22)
 plt.grid(True, linestyle='--', alpha=0.6)
 plt.tight_layout()
+
 plt.show()
