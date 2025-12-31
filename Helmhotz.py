@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 17 20:29:02 2025
 
-@author: Trisha
+@author: SOMNATH
 """
 
 import numpy as np
@@ -48,4 +48,5 @@ plt.legend(loc = 'best', prop = {'size':10})
 plt.xlim(40,85)
 plt.ylim(-6,14)
 plt.grid()
+
 plt.show()
