@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 17 20:07:44 2025
 
-@author: Trisha
+@author: Somnath
 """
 
 import numpy as np
@@ -16,4 +16,5 @@ plt.xlabel("Voltage($V_{G_2K}$)")
 plt.ylabel("Current in $10^{-9}$ Amp")
 plt.scatter(V,I,color="blue")
 plt.grid()
+
 plt.show()
