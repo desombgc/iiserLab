@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 17 20:05:26 2025
 
-@author: Trisha
+@author: SOMNATH
 """
 
 import numpy as np
@@ -32,3 +32,4 @@ plt.title("Intensity vs angle$(θ)$")
 plt.legend(loc = 'best', prop = {'size':10})
 plt.grid()
 plt.show()
+
