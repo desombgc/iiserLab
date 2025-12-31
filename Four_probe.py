@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 17 20:25:36 2025
 
-@author: Trisha
+@author: SOMNATH 
 """
 
 import numpy as np
@@ -29,4 +29,5 @@ plt.xlabel("Temperature in Kelvin",fontsize=10)
 plt.ylabel("Resistance in Ohm",fontsize=10)
 plt.title("Resistance Vs Temperature")
 plt.grid()
+
 plt.show()
