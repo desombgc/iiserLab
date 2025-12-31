@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 17 20:09:26 2025
 
-@author: Trisha
+@author: SOMNATH
 """
 import numpy as np
 import matplotlib.pyplot as plt
@@ -24,4 +24,5 @@ plt.scatter(x, y, color="blue")
 plt.plot(x, y_fit, "r-", label="Fit y=0.50x")
 plt.legend(loc = 'best', prop = {'size':10})
 plt.grid()
+
 plt.show()
