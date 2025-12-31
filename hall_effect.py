@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 17 20:12:18 2025
 
-@author: Trisha
+@author: SOMNATH
 HALL EFFECT: here u have to get the calibration curve first, I vs B . 
 Then inceasing the current such the magnetic field increases, From known current the unknown magnetic
 field can be determined. 3 sets table should be taken.
@@ -70,3 +70,4 @@ y_new = m * x_new + c
 for xi, yi in zip(x_new, y_new):
     print(f"x = {xi:.2f} -> y = {yi:.2f}")
 '''
+
